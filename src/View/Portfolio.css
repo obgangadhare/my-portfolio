@@ -1,0 +1,289 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  'Times New Roman', Times, serif;
+   
+}
+body{
+   
+    color: black;
+}
+.navbar-nav a {
+    margin-left: 20px;
+}
+.home-text{
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    height: 500px;
+    width: 500px;
+    
+}
+.home-img img{
+    position: absolute;
+    top: 120px;
+    left: 900px;
+    height: 400px;
+    width: 350px;
+    border-radius: 50%;
+ 
+}
+.homesec{
+    height: 700px;
+  
+}
+.homesec p{
+    font-size: 20px;
+  
+}
+.omkarhead{
+    font-size: 60px;
+}
+.caption{
+    font-size: 30px;
+}
+.button1{
+    position: absolute;
+    top: 500px;
+    left: 250px;
+}
+.aboutsec{
+    height: 700px;
+   
+    color: black;
+
+}
+
+.aboutimg {
+    position: absolute;
+    top: 900px;
+    margin-left: 200px;
+    height: 450px;
+    width: 350px;
+    border-radius: 50%;
+}
+.aboutsec h2{
+    position: absolute;
+    top: 800px;
+    font-size: 40px;
+    margin-left: 640px;
+   
+}
+.aboutparagraph{
+    line-height: 2;
+    font-size: 20px;
+    position: absolute;
+    top: 900px;
+    margin-left: 700px;
+}
+.skillssec{
+    height: 700px;
+   
+}
+.skillssec h1{
+   position: absolute;
+   top: 1470px;
+   margin-left: 650px;
+}
+.skillssec p{
+   font-size: 20px;
+ }
+
+.prglg{
+    position: absolute;
+    top: 1550px;
+    left: 500px;
+}
+.techno{
+    position: absolute;
+    top: 1670px;
+    left: 500px;
+}
+.quali{
+    height: 700px;
+   
+    color: black;
+    
+}
+.quali h1{
+    position: absolute;
+    top: 2170px;
+    left: 600px;
+}
+.quali p{
+    font-size: 20px;
+}
+.ssc{
+    position: absolute;
+    top: 2280px;
+    left: 50px;
+    height: 360px;
+    width: 400px;
+  
+    line-height: 2;
+    border: 15px solid rgba(0, 0, 0, 0.378);
+    
+    border-radius: 80px;
+    padding: 50px 40px;
+}
+
+.ssc h2{
+    margin-left: 100px;
+}
+.ssc:hover{
+    transform: scale(1.1,1.1);
+}
+.hsc:hover{
+    transform: scale(1.1,1.1);
+}
+.be:hover{
+    transform: scale(1.1,1.1);
+}
+.hsc{
+    position: absolute;
+    top: 2280px;
+    left: 550px;
+    height: 360px;
+    width: 400px;
+    border: 15px solid rgba(0, 0, 0, 0.378);
+    
+    border-radius: 80px;
+    padding: 50px 40px;
+    
+    line-height: 2;
+}
+.hsc h2{
+    margin-left:80px;
+}
+.be{
+    position: absolute;
+    top: 2280px;
+    left: 1050px;
+    height: 360px;
+    width: 400px;
+    border: 15px solid rgba(0, 0, 0, 0.378);
+    
+    border-radius: 80px;
+    padding: 50px 40px;
+   
+    line-height: 2;
+}
+.projectsec{
+    height: 1110px;
+   
+}
+.projectsec h1{
+    position: absolute;
+    top: 2880px;
+    left: 700px;
+}
+.amazonhead{
+    position: absolute;
+    top: 3000px;
+    left: 400px;
+}
+.amazonimg{
+    position: absolute;
+    top: 3060px;
+    left: 200px;
+    height: 400px;
+    width: 800px;
+}
+.button2{
+    position: absolute;
+    top: 3140px;
+    left: 1100px;
+}
+.button3{
+    position: absolute;
+    top: 3140px;
+    left: 1300px;
+}
+.netflixhead{
+    position: absolute;
+    top: 3500px;
+    left: 400px;
+}
+.netfliximg{
+    position: absolute;
+    top: 3560px;
+    left: 200px;
+    height: 400px;
+    width: 800px;
+}
+.button4{
+    position: absolute;
+    top: 3640px;
+    left: 1100px;
+}
+.button5{
+    position: absolute;
+    top: 3640px;
+    left: 1300px;
+}
+.contactmesec{
+    height: 700px;
+   
+    color: black;
+    
+}
+.contactmesec h1{
+    position: absolute;
+    top: 3980px;
+    left: 600px;
+}
+.mobno i{
+    position: absolute;
+    top:4080px;
+    left: 400px;
+    font-size: 30px;
+}
+.mobno p{
+    position: absolute;
+    top:4070px;
+    left: 440px;
+    font-size: 30px;
+}
+.email1 i{
+    position: absolute;
+    top:4180px;
+    left: 400px;
+    font-size: 30px;
+}
+.email1 p{
+    position: absolute;
+    top:4170px;
+    left: 440px;
+    font-size: 30px;
+}
+.address i{
+    position: absolute;
+    top:4280px;
+    left: 400px;
+    font-size: 30px;
+}
+.address p{
+    position: absolute;
+    top:4270px;
+    left: 440px;
+    font-size: 30px;
+}
+.namesend{
+    position: absolute;
+    top:4080px;
+    left: 940px;
+
+   
+}
+.namein{
+    height: 80px;
+    width: 400px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.button6{
+    position: absolute;
+    top:4400px;
+    left: 1070px;
+}
